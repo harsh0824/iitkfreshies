@@ -59,11 +59,17 @@
 .content1{
     color: white;
     padding-top: 15px;
+    position:relative;
+    left:40px;
+    
 }
 .content2{
     color: rgb(120,120,120);
     padding-top: 15px;
     padding-bottom: 25px;
+    position:relative;
+    left:40px;
+    
 }
 .seperate{
     list-style: none;
@@ -76,6 +82,9 @@
     color:  rgb(64,224,235);
     font-stretch: expanded;
     padding-top: 15px;
+    position:relative;
+    left:40px;
+    
 }
 .content3:hover{
     color:white;
