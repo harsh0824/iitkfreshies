@@ -1,0 +1,63 @@
+*{
+    letter-spacing: 1.5px;
+}
+.menu{
+    color: black;
+    font-size: 10px;
+    padding: 5px;
+    font-weight: bold;
+
+}
+.brand{
+    color: black;
+    font-size: 25px;
+
+}
+.course{
+    font-size: 10px;
+    font-weight: bold;
+}
+.footer{
+     font-size: 15px;
+     text-align: center;
+     margin-top: 50px;
+}
+.soc{
+    width: 25px;
+    padding-right: 5px;
+    text-decoration-line: underline;
+}
+.below{
+    font-weight: lighter;
+    font-size: 10px;
+}
+.copyright{
+    font-size: 10px;
+    font-weight: lighter;
+    text-align:center;
+    padding-right: 15px;
+    
+}
+.phone{
+    color: rgb(64,224,235);
+    font-stretch: expanded;
+    font-stretch: expanded;
+}
+.phone:hover{
+    color:black;
+    text-decoration-line: none;
+}
+.sub{
+    font-size: 10px;
+   
+    
+}
+.menu:hover{
+color:rgb(64,224,235)
+}
+.navbar-nav > li {
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color:white;
+}
