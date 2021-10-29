@@ -220,8 +220,7 @@
   
  .feature__backgroud__video {
     
-    display: block;
-    margin: auto;
+   max-width: 100%;
     position: relative;
     right: 90px;
 
