@@ -220,8 +220,19 @@
   
   .feature__backgroud__video {
     width: 100%;
-    text-align: center;
-  }
+
+    }
+.heading{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: crimson;
+  font-size: 50px;
+ font-weight: bolder;
+ padding-bottom: 20px;
+}
+
+   
+  
   
   .feature__2__poster__container {
     position: absolute;
