@@ -218,10 +218,14 @@
     z-index: -2;
   }
   
-  .feature__backgroud__video {
-    width: 100%;
+ .feature__backgroud__video {
+    
+    display: block;
+    margin: auto;
 
     }
+
+
 .heading{
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
