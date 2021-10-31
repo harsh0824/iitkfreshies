@@ -140,6 +140,7 @@ h1 {
   font-size: 15px;
   text-align: center;
   margin-top: 50px;
+  height: 200px;
 }
 .copyright{
   font-size: 10px;
@@ -165,4 +166,20 @@ h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
+}
+
+#pricing{
+  background-color: black;
+  padding-bottom: 80px;
+}
+
+.content3{
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.line{
+  color: white;
+  height: 10px;
 }
