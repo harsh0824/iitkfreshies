@@ -30,6 +30,8 @@ h1 {
 } */
 .navbar-brand{
    font-family: 'Courier New', Courier, monospace;
+   font-weight: bolder;
+    
 }
 
 /* .dog{
