@@ -29,7 +29,7 @@ h1 {
     font-family: 'Montserrat', sans-serif; 
 } */
 .navbar-brand{
-    font-family: ubuntu;
+   font-family: 'Courier New', Courier, monospace;
 }
 
 /* .dog{
@@ -181,6 +181,9 @@ h1 {
   color: white;
   padding-top: 30px;
   padding-bottom: 30px;
+  font-weight: bolder;
+    
+ 
 }
 .line{
   color: white;
