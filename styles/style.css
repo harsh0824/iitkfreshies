@@ -83,10 +83,10 @@ h1 {
 }
 .logo{
     width: 5rem;
-/*     padding: 30px;
-    padding: 40px; */
+     padding-bottom: 30px;
+/*     padding: 40px; */
     /* position: relative;
-    left: 30px; */
+    left: 30px; */ */
     
     
 }
@@ -118,7 +118,7 @@ h1 {
     color: white;
     text-align: center;
     padding-bottom: 30px;
-  font-size: 40px;
+  font-size: 3rem;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bolder;
 }
