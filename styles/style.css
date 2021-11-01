@@ -36,13 +36,13 @@ h1 {
     font-family: ubuntu;
 }
 
-.dog{
+/* .dog{
     width:270px;
     transform:rotate(25deg);
     position: relative;
     left: 70px;
     top: 120px;
-}
+} */
 
 .content1{
   font-family: 'Courier New', Courier, monospace;
