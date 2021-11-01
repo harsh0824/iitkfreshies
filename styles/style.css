@@ -64,7 +64,7 @@ h1 {
 #testimonials{
     padding: 5% 17%;
     text-align: center;
-    background-color:teal;
+    background-color:rgb(64,224,235);
     color: white;
 }
 .testimonial-image{
@@ -100,7 +100,7 @@ h1 {
   }
     
 .challenge2{
-      background-color: teal;
+      background-color: rgb(64,224,235);
       text-align: center;
       padding: 60px;
   }
