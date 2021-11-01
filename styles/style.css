@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 #title{
  
   background-repeat: no-repeat;
