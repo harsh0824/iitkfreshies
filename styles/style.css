@@ -46,10 +46,14 @@ h1 {
   font-family: 'Courier New', Courier, monospace;
   font-size: 1.5rem;
   font-weight: bolder;
+  color:black;
   /* position: relative;
   left: 30px; */
 }
-
+.content1:hover{
+ color:rgb(64,224,235);
+}
+  
 .content2{
     color: #8f8f8f;
  padding-bottom:20px;
