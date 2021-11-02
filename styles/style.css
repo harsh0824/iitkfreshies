@@ -23,9 +23,6 @@ h1 {
 
 /* .container-fluid{
     background-color:black;
-
-
-
     font-family: 'Montserrat', sans-serif; 
 } */
 .navbar-brand{
@@ -42,17 +39,21 @@ h1 {
     top: 120px;
 } */
 
-.content1{
+.sites{
   font-family: 'Courier New', Courier, monospace;
   font-size: 1.5rem;
-  font-weight: bolder;
+  font-weight:bolder;
   color:black;
   /* position: relative;
   left: 30px; */
 }
-.content1:hover{
+.sites:hover{
  color:rgb(64,224,235);
  text-decoration-line: none;
+}
+
+.content1{
+  font-weight: bolder;
 }
   
 .content2{
