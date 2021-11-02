@@ -2,13 +2,16 @@
  
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  height: 600px;
+  height: 500px;
 }
-
+.nav-link{
+  font-family: 'Josefin Slab', serif;
+  
+}
 
 h1 {
 
-  font-family: 'Montserrat ', sans-serif;
+  font-family: 'Josefin Slab', serif;
 
   font-size: 3rem;
 
@@ -28,7 +31,7 @@ h1 {
     font-family: 'Montserrat', sans-serif; 
 } */
 .navbar-brand{
-   font-family: 'Courier New', Courier, monospace;
+  font-family: 'Josefin Slab', serif;
    font-weight: bolder;
     
 }
@@ -42,7 +45,7 @@ h1 {
 } */
 
 .sites{
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Josefin Slab', serif;
   font-size: 1.5rem;
   font-weight:bolder;
   color:black ;
@@ -50,12 +53,13 @@ h1 {
   left: 30px; */
 }
 .sites:hover{
-  color:rgb(255, 30, 63) ;
+  color:rgb(255, 30, 63)  ;
  text-decoration-line: none;
 }
 
 .content1{
   font-weight:bold;
+  
 }
   
 .content2{
@@ -131,7 +135,7 @@ h1 {
     text-align: center;
     padding-bottom: 30px;
   font-size: 1.8rem;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Josefin Slab', serif;
   font-weight: bolder;
 }
 
@@ -167,19 +171,30 @@ h1 {
   font-weight: lighter;
   font-size: 10px;
 }
+
+.sub{
+  font-size: 10px;
+}
+
+.course{
+  font-size: 15px;
+  font-weight: bold;
+}
+
 .topy{
   color:white; 
   line-height: 80px; 
   margin-top: 50px; 
   text-align: center; 
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Josefin Slab', serif;
   font-size: 40px;
+  font-weight: bolder;
 }
 .topys{
   color:whitesmoke;
    font-size: 20px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Josefin Slab', serif;
     font-weight: bolder;
 }
 
@@ -189,7 +204,7 @@ h1 {
 }
 
 .content3{
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Josefin Slab', serif;
   color: white;
   padding-top: 30px;
   padding-bottom: 30px;
