@@ -4,6 +4,8 @@
   background-size: 100% 100%;
   height: 600px;
 }
+
+
 h1 {
 
   font-family: 'Montserrat ', sans-serif;
@@ -43,17 +45,17 @@ h1 {
   font-family: 'Courier New', Courier, monospace;
   font-size: 1.5rem;
   font-weight:bolder;
-  color:black;
+  color:black ;
   /* position: relative;
   left: 30px; */
 }
 .sites:hover{
- color:rgb(64,224,235);
+  color:rgb(255, 30, 63) ;
  text-decoration-line: none;
 }
 
 .content1{
-  font-weight: bolder;
+  font-weight:bold;
 }
   
 .content2{
@@ -70,7 +72,7 @@ h1 {
 #testimonials{
     padding: 5% 17%;
     text-align: center;
-    background-color:rgb(64,224,235);
+    background-color:teal ;
     color: white;
 }
 .testimonial-image{
@@ -96,7 +98,7 @@ h1 {
      padding-top:40px;
 /*     padding: 40px; */
     /* position: relative;
-    left: 30px; */ */
+    left: 30px; */ 
     
     
 }
@@ -106,7 +108,7 @@ h1 {
   }
     
 .challenge2{
-      background-color: rgb(64,224,235);
+      background-color:black;
       text-align: center;
       padding: 60px;
   }
@@ -147,11 +149,13 @@ h1 {
   width: 25px;
   padding-right: 5px;
   text-decoration-line: underline;
-}.footer{
+}
+.footer{
   font-size: 15px;
   text-align: center;
-  margin-top: 50px;
+  padding-top: 50px;
   height: 200px;
+
 }
 .copyright{
   font-size: 10px;
@@ -180,7 +184,7 @@ h1 {
 }
 
 #pricing{
-  background-color: black;
+  background-color:black;
   padding-bottom: 80px;
 }
 
