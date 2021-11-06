@@ -37,6 +37,8 @@ h1 {
 }
 .mnames{
  font-family: 'Josefin Slab', serif;
+ position:relative;
+ right:10px;
  
 }
 
