@@ -37,9 +37,7 @@ h1 {
 }
 .mnames{
  font-family: 'Josefin Slab', serif;
- position:relative;
- right:18px;
- 
+ text-align: center;
 }
 
 /* .dog{
